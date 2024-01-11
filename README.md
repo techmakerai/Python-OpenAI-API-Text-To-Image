@@ -1,2 +1,2 @@
-# Creating an Image from Text with OpenAI API and Python
+# Creating an Image from Text with OpenAI API
 

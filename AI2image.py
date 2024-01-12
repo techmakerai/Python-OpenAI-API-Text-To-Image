@@ -1,4 +1,4 @@
-# Generate image from text by OpenAI's DALL-E Image API and then open it in a web browser
+# Generate an image from the text by OpenAI's DALL-E Image API and then open it in a web browser
 # By TechMakerAI on YouTube 
 # 
 import webbrowser

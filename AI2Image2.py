@@ -1,4 +1,4 @@
-# Generate image from text by OpenAI's DALL-E Image API and then save it to a file
+# Generate an image from the text by OpenAI's DALL-E Image API and then save it to a file
 # By TechMakerAI on YouTube 
 # 
 

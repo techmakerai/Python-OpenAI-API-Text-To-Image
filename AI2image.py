@@ -5,7 +5,11 @@ import webbrowser
 import os 
 
 from openai import OpenAI
+
+# I added my API key as a system environment variable. 
 client = OpenAI()
+# If you rather want to use your API key in this program, then change the above line to, 
+# client = OpenAI(api_key="this is your API key")
 
 # A text description of the desired image(s). 
 # The maximum length is 1000 characters for dall-e-2 

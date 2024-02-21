@@ -7,7 +7,7 @@ https://youtu.be/XYtFgmF39uc
 Before you can run this code on your computer, you will need to install the following packages: 
 
 ```console
-pip install openai   
+pip install openai webbrowser   
 ```
 If you have Python 3.12 or newer, also install the "setuptools" package,    
 

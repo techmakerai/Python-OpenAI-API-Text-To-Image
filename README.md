@@ -4,7 +4,7 @@ This Python program will generate an image based on the text input with OpenAI's
 Please follow the YouTube video to learn more about this code:
 https://youtu.be/XYtFgmF39uc
 
-Before you can run this code on your computer, you will need to install the following packages on your computer to run this code: 
+Before you can run this code on your computer, you will need to install the following packages: 
 
 ```console
 pip install openai   
